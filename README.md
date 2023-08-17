@@ -29,7 +29,7 @@ Just like medical insurance, there is vehicle insurance where every year custome
 
 ## **Project Conclusion and Inference:**
 
-**We observed the following conclusions after executiong this project:**
+**We observed the following conclusions after executioning this project:**
 
 1.Random Forest Classifier seems to be performing better as compared to other models. 
 
