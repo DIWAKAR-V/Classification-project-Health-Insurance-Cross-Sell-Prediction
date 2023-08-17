@@ -25,7 +25,7 @@ Just like medical insurance, there is vehicle insurance where every year custome
 
 7.We experimented using simple Random Forest Classifier,Gradient Boosting Classifier,Naive bayes classifier,knn neighbours classifier,XGBclassifier,Decision tree classifier. We employed Hyperparameter Tuning using HalvingRandomSearchCV on the tree based models.
 
-8.We finally concluded the project with XGBoost giving the best model performance followed by  Random Forest Classifier.
+8.We finally concluded the project with Random Forest Classifier giving the best model performance.
 
 ## **Project Conclusion and Inference:**
 
